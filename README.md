@@ -2,6 +2,25 @@
 
 Lightweight crypto payment gateway SaaS (development repo).
 
+Repository: https://github.com/0xyz-exe/CryptoMerchant
+
+## Screenshots
+
+### Merchant Payment Gateway Dashboard
+![Merchant dashboard](docs/screenshots/01_dashboard.png)
+
+### Real-Time Crypto Invoice & QR Terminal
+![Crypto invoice](docs/screenshots/02_crypto_invoice.png)
+
+### Wallet Management & Withdrawal Workflow
+![Wallet withdrawals](docs/screenshots/03_wallet_withdrawals.png)
+
+### API Keys & Webhook Settings
+![API webhooks](docs/screenshots/04_api_webhooks.png)
+
+### Merchant Authentication
+![Authentication](docs/screenshots/05_login.png)
+
 Quick start
 -----------
 
